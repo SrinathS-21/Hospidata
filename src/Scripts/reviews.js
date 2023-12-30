@@ -1,11 +1,11 @@
 export const customerReviews = [
     {
-      "name": "Vishal",
+      "name": "Ravi",
       "location": "Tamil Nadu, India",
       "message": "Hospidata's user interface is incredibly intuitive. Even for someone not tech-savvy like me, navigating through appointments and accessing medical records is straightforward.It's a user-friendly solution that makes managing healthcare a pleasure."
     },
     {
-      "name": "Rekashini",
+      "name": "Lekha",
       "location": "Tamil Nadu, India",
       "message": "Using Hospidata has streamlined my healthcare experience. Booking appointments is a breeze, and the comprehensive health record feature keeps all my information in one place. It's the complete package for managing my health."
     },
